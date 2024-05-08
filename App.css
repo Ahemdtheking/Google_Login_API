@@ -1,0 +1,15 @@
+*{
+  background-color: rgba(244, 255, 246, 0.904);
+}
+.GL{
+  font-size: 45px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.google_logo {
+  width: 500px;
+  height: 100px;
+}
+.CLGL {
+  max-width: 100%;
+  max-height: 100%;
+}
